@@ -1,4 +1,4 @@
-- >kira.sh#0001
+- &gt;kira.sh#0001
 - dev/esioc
 - chmod 777 root/
 - expert python
