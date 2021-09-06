@@ -1,7 +1,7 @@
-@kiraSH-Web
-dev/esioc
-chmod 777 root/
-expert python
+- @kiraSH-Web
+- dev/esioc
+- chmod 777 root/
+- expert python
 
 
 <!---
